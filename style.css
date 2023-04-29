@@ -1,9 +1,44 @@
-.top{ 
-  float: none: 
-  color: red; 
-  
+@font-face {
+  font-family: TitleCute;
+  src: url(LxgwWenKaiMonoLatin-Light.ttf);
 } 
-.middle{ 
-  float: none; 
-  
+
+.title{ 
+color: black; 
+font-family: TitleCute; 
+font-size: 3vw; 
+text-align: center; 
+
+
+
 } 
+
+
+img{ 
+max-width: 50%; 
+margin-left: 25%; 
+
+
+
+
+
+} 
+
+.nav { 
+color: black ;  
+font-family: TitleCute; 
+font-size: 2vw; 
+text-align: center; 
+
+
+
+} 
+
+
+.socialicons{ 
+height: 2vw; 
+width: 2vw; 
+margin-left: 0%; 
+
+} 
+<p class = "title" style = "text-align: left; size; 1vw"; >Links: </p> 
