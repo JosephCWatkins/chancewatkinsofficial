@@ -13,6 +13,28 @@ text-align: center;
 
 } 
 
+.pagetitle{ 
+color: black; 
+font-family: TitleCute; 
+font-size: 3vw; 
+text-align: left; 
+text-indent: 7vw; 
+
+} 
+
+.pageparagraph{ 
+color: black; 
+font-family: TitleCute; 
+font-size: 2vw; 
+text-align: left; 
+background-color: aliceblue; 
+padding: 1vw; 
+margin: 50px; 
+
+} 
+
+
+
 
 img{ 
 max-width: 50%; 
